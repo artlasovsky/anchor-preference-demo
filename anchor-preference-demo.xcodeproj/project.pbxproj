@@ -8,10 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		D735E9E62ED641A30001F114 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D735E9E52ED641A30001F114 /* README.md */; };
+		D735E9E82ED643220001F114 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D735E9E72ED643220001F114 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D735E9E52ED641A30001F114 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D735E9E72ED643220001F114 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D7C27DDC2ED1B361007798B0 /* anchor-preference-demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "anchor-preference-demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -37,6 +39,7 @@
 		D7C27DD32ED1B361007798B0 = {
 			isa = PBXGroup;
 			children = (
+				D735E9E72ED643220001F114 /* LICENSE */,
 				D735E9E52ED641A30001F114 /* README.md */,
 				D7C27DDE2ED1B361007798B0 /* anchor-preference-demo */,
 				D7C27DDD2ED1B361007798B0 /* Products */,
@@ -115,6 +118,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D735E9E82ED643220001F114 /* LICENSE in Resources */,
 				D735E9E62ED641A30001F114 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
